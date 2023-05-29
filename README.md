@@ -11,6 +11,10 @@ Use the package manager pip to install django within the venv
 
 ## Changes made:
 
+Made it that the temperature gets converted into a normal number 
+
+Added C in the index page for the temperature
+
 ## Resources used:
 
 https://www.youtube.com/watch?v=jBzwzrDvZ18&pp=ygUGZGphbmdv
